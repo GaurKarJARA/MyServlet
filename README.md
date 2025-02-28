@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MyServlet
 --This repository contains two main learning exercises: Simple Java Web Server – A basic web server that responds to HTTP requests.
 ### Simple Login Servlet 
